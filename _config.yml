@@ -124,6 +124,3 @@ feed:
   content_limit_delim: " "
   order_by: -date
 
-# aplayer music
-aplayer:
-  meting: true
