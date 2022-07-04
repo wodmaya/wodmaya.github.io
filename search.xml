@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>小羊博客推文操作指北</title>
+    <url>/2022/06/30/%E5%B0%8F%E7%BE%8A%E5%8D%9A%E5%AE%A2%E6%8E%A8%E6%96%87%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8C%97/</url>
+    <content><![CDATA[<h3 id="从生成到编辑再到推送的详细步骤-相关前置环境都会帮小宝配好"><a href="#从生成到编辑再到推送的详细步骤-相关前置环境都会帮小宝配好" class="headerlink" title="从生成到编辑再到推送的详细步骤 - [相关前置环境都会帮小宝配好]"></a>从生成到编辑再到推送的详细步骤 - [相关前置环境都会帮小宝配好]</h3><h4 id="1-使用vscode打开本地的小羊博客仓库-git分支应在hexo上"><a href="#1-使用vscode打开本地的小羊博客仓库-git分支应在hexo上" class="headerlink" title="1. 使用vscode打开本地的小羊博客仓库 git分支应在hexo上"></a>1. 使用vscode打开本地的小羊博客仓库 git分支应在hexo上</h4><p><img src="/../assets/git-branch.png"></p>
+<p>如果分支不在hexo上 点击分支切换按钮进行切换<br><img src="/../assets/branch-change.png"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">j [小羊博客仓库名] 或者`cd`操作切换目录 这一步会帮小羊写好</span><br><span class="line"></span><br><span class="line">或者简单使用terminal终端使用 `code .` 打开仓库</span><br></pre></td></tr></table></figure>
+<span id="more"></span>
+<h3 id="2-打开vscode终端"><a href="#2-打开vscode终端" class="headerlink" title="2. 打开vscode终端"></a>2. 打开vscode终端</h3><p>点击下方圆圈删除和警告图标，再点击终端<br><img src="/../assets/terminal.png"></p>
+<h3 id="3-生成新的md文件"><a href="#3-生成新的md文件" class="headerlink" title="3. 生成新的md文件"></a>3. 生成新的md文件</h3><p>聚焦终端使其在可编辑的状态<br>使用命令 <code>hexo new &#39;小宝新文章标题&#39;</code> 生成对应文件<br>新文件目录地址 source&#x2F;_posts 下</p>
+<h3 id="4-使用markdown语法编辑文章"><a href="#4-使用markdown语法编辑文章" class="headerlink" title="4. 使用markdown语法编辑文章"></a>4. 使用markdown语法编辑文章</h3><p>学习语法 <a href="https://www.jianshu.com/p/ebe52d2d468f," title="markdown">markdown语法</a></p>
+<h3 id="5-完成文章编辑后进行预览-也可以编写边预览"><a href="#5-完成文章编辑后进行预览-也可以编写边预览" class="headerlink" title="5. 完成文章编辑后进行预览 也可以编写边预览"></a>5. 完成文章编辑后进行预览 也可以编写边预览</h3><p>在vscode中点击右上角md文件预览<br><img src="/../assets/vs-preview.png"></p>
+<h3 id="6-浏览器本地预览博客"><a href="#6-浏览器本地预览博客" class="headerlink" title="6. 浏览器本地预览博客"></a>6. 浏览器本地预览博客</h3><p>在终端输入 <code>hexo s</code> 启动服务 默认终端是4000</p>
+<h3 id="7-本地确定新的博文没有问题后推送远端"><a href="#7-本地确定新的博文没有问题后推送远端" class="headerlink" title="7. 本地确定新的博文没有问题后推送远端"></a>7. 本地确定新的博文没有问题后推送远端</h3><p>在终端 输入 <code>hexo g -d</code> 推送文章 几分钟后远端博客就会同步</p>
+<h3 id="8-同步本地和远端仓库文件"><a href="#8-同步本地和远端仓库文件" class="headerlink" title="8. 同步本地和远端仓库文件"></a>8. 同步本地和远端仓库文件</h3><p>在终端依次输入</p>
+<ol>
+<li><code>git add .</code></li>
+<li><code>git commit -m &#39;博文更新&#39;</code></li>
+<li><code>git push</code></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>笔记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>春慕</title>
+    <url>/2022/06/29/%E6%98%A5%E6%85%95/</url>
+    <content><![CDATA[<p>想带你领略北京城  </p>
+<p>像捕虾人淘尽砂砾  </p>
+<p>唇齿研磨唤起我全部的感官  </p>
+<span id="more"></span>
+
+<p>与思念、对你  </p>
+<p>想起儿时学语的词不达意  </p>
+<p>只想用时间去证明  </p>
+<p>我笨拙的爱意  </p>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.css"><script src="https://cdn.jsdelivr.net/npm/aplayer@1/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script><meting-js metin="meting" server="netease" type="song" id=409031573 ></meting-js>
+
+<p><img src="/../assets/spring.jpg" title="spring sun"></p>
+]]></content>
+      <tags>
+        <tag>诗歌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>苹果红了</title>
+    <url>/2021/07/31/%E8%8B%B9%E6%9E%9C%E7%BA%A2%E4%BA%86/</url>
+    <content><![CDATA[<p>伯父去世那年，我即将升入高二。  </p>
+<p>全校文科生在高考后的某天下午集中在大礼堂听应届毕业生的演讲，我从后门出去，接过老师手里的电话，那边传来母亲平静的声音，伯父走了。门后响起哄笑声，像是谁开了个玩笑，我扭过头，从门缝中和邻座好友对视了一眼，看着她脸上绽开又逐渐敛起的笑容，我回了神，轻轻摇了摇头，下意识挂断电话，发现通话已经结束了。 </p>
+<span id="more"></span>
+<p>由于住校且离老家很远，我直到头七才踏上回程，一路上父母与我三人相顾无言，这样过于平静的气氛让我如坐针毡。我多次想望向父亲，希望得到一点哪怕是眼神上的回应，但又不敢正眼看着他，唯恐面对悲戚与泪水却不知所措，只能带着遗憾与歉意间或瞥一眼。可父亲只是望着前方，心无旁骛地开车，不知是否察觉。我在心里舒了口气又止不住因此自责起来，不解与纠结纠缠着我，家乡的红砖瓦房出现在视野时，紧张取而代之。  </p>
+<p>我几乎是小跑着推开伯父的院门的，电动车歪着脑袋停在角落，农作的杂物堆在车旁，空空的鸡舍昭示着这四方小院仅剩唯二的活物：我，和压水机旁那棵小苹果树。  </p>
+<p>从我记事时起，那棵果树就栽在那了，印象里我从来没有吃过它结的果子，每当秋季苹果成熟就是我开学的季节。有时父亲给家里打电话时我会听到伯父的唤声“年年快回来吃苹果，还记不记得苹果怎么说呀？apple！年年还记得吗？”从小到大每年如此。我便总是回想起儿时节假日回老家过节的情景，那时哥哥姐姐们尚未成家，时常能团聚，院子里总是充满热闹的气氛，而作为家中最小的孩子，我便只需在人来人往间嬉闹玩耍，背着父母任由其他长辈娇纵溺爱。那会儿伯父最喜欢逗小孩子，总是在我缠着姐姐要零嘴时抓着我问“年年考试怎么样啊？考不好不给吃！”故作严肃的表情再加上满脸的络腮胡子，一下就让我愣在原地。所以我少时对他又敬又怕，总绕着他走，现在想想，伯父哪次不是在我委屈着张嘴要哭时练声轻哄，不顾父母阻拦把桶装的零食塞在我怀里，至于成绩，倒是一次都没有问清楚过。后来大家四处分散，聚少离多，听母亲闻言伯父去世那日才又一次齐聚，哪知现在只剩我一人了。  </p>
+<p>“年年，走了，给你伯父上坟。”  </p>
+<p>我扭过头，父亲拎着袋子在门口向我招招手，不知站了多久。  </p>
+<p>“诶。”  </p>
+<p>我连忙转身跟上了。  </p>
+<p>平原的农村不比山区，坟址是直接建在各家地里的，从远处望去，一望无际的土地上鼓起一块一块的小包，像是蚊子叮咬后留下的红肿，那是古语常言“落叶归根”，老掉了埋在故乡的地里，一辈子才算圆圆整整地走完了。我跟在父亲身后，深一脚浅一脚迈向自家田地，原野上吹起清晨的风，父亲的衣角被风掀起又落下，田埂外侧的树上响起蝉鸣，露头的太阳把阳光铺展开，光芒被树叶、被房屋遮挡，余下的部分，一条条一道道，落在田间，落在地里。不知走了多久，父亲的脚步一滞。  </p>
+<p>“到了。”  </p>
+<p>红塑料袋里装着鞭炮和纸钱，按照老家的风俗，烧纸前要先放鞭炮，寓意呼唤先人的魂魄。父亲点燃了鞭炮，在爆裂的竹声中朝远处喊了一句“哥，来收钱了！”便呆呆地望了一会儿，而后走到坟前和我一起烧纸，嘴里念叨着叮嘱与祝福，末了，让我在坟前磕了三个头。  </p>
+<p>“走吧。”  </p>
+<p>他站起身，拍了拍衣服上的灰尘，和来时一样走在前面，脚步似乎轻快了些，路过树荫下时，父亲哼起了歌。  </p>
+<p>临走前，我又一次看向伯父的院门，门两侧贴着新年时伯父自己写的对联“春临大地百花艳，节至人间万象新”，红纸卷起了边，如同烛火在风中摇曳……  </p>
+<p>伯父去世至今已过去将近六年，六年光景让我从朦胧青春走向日渐成熟，对生命与死亡的理解也在成长中逐渐明朗,那日的疑惑与不解日趋淡忘，离开田埂时的心情愈发记忆犹新，像是放下了什么，像是又背负起了什么。记得大学的第一个清明节，我放假回家闲暇之余随父母到附近公墓祭奠，那天下着毛毛细雨，鲜有人打伞，墓园里一改往日清净，闹而不喧。我们鞠过躬，献完花朝山下走时，迎面而来一位拄杖老人，擦肩走过便听到那老人在身后引吭高歌“清明时节——雨纷纷呐！”路人无不纷纷回头，又不约而同相视而笑。一路拾级而下，路遇有相伴情侣，有孤身一人，更多的是父母带着年幼孩子前来祭奠，手指墓碑上的文字向或怀抱、或手牵的儿女一一介绍，这情景无不是我熟悉且经历过的。走到山脚时我不禁回头，漫山静立的、流动的碑铭，一代代传承到幼小的孩子身上，祖祖辈辈的祝福与期望由此得以延续。  </p>
+<p>后来我再大些，给妹妹辅导功课，翻开曾经熟悉的课本，看到《项脊轩志》最后“庭有枇杷树，吾妻死之年所手植也，今已亭亭如盖矣”的那一刻，父亲的脚步、老人的歌声，这些过往的经历顿时让我对它有了新的领悟，那生与死的相望、“我想退回过去”与“时间奔涌向前”的拉扯才最是动容，结局也最是无奈——枇杷树早已亭亭如盖，正如无论我们情不情愿，在每每回首望向那方小院，想要追忆过往的时光时，总会发现，那苹果已经红了。（1910）</p>
+]]></content>
+      <categories>
+        <category>文字</category>
+      </categories>
+      <tags>
+        <tag>散文</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>小羊自制vlog①</title>
+    <url>/2020/08/13/%E5%B0%8F%E7%BE%8A%E8%87%AA%E5%88%B6vlog%E2%91%A0/</url>
+    <content><![CDATA[<blockquote>
+<p>疫情爆发后第一次返校vlog<br>全程自己制作，从零到有</p>
+</blockquote>
+<style>.bbplayer{width: 100%; max-width: 850px; margin: auto}</style><div class="bbplayer"><iframe class="bbplayer" id="mmedia-zovCuwXBZdOydaxs" src="https://player.bilibili.com/player.html?bvid=BV1Zf4y1o7Lo&page=1&high_quality=1&danmaku=true" allowfullscreen="allowfullscreen" scrolling="no" border="0" frameborder="0" framespacing="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts allow-popups"></iframe></div><script> document.getElementById("mmedia-zovCuwXBZdOydaxs").style.height=document.getElementById("mmedia-zovCuwXBZdOydaxs").scrollWidth*0.76+"px";
+    window.onresize = function(){
+      document.getElementById("mmedia-zovCuwXBZdOydaxs").style.height=document.getElementById("mmedia-zovCuwXBZdOydaxs").scrollWidth*0.76+"px";
+    }; </script>
+
+]]></content>
+      <categories>
+        <category>视频</category>
+      </categories>
+      <tags>
+        <tag>vlog</tag>
+      </tags>
+  </entry>
+</search>

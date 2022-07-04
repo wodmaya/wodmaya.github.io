@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小羊不睡觉</title>
+  
+  
+  <link href="https://wodmaya.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://wodmaya.github.io/"/>
+  <updated>2022-07-04T13:23:26.856Z</updated>
+  <id>https://wodmaya.github.io/</id>
+  
+  <author>
+    <name>小卷羊</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>小羊博客推文操作指北</title>
+    <link href="https://wodmaya.github.io/2022/06/30/%E5%B0%8F%E7%BE%8A%E5%8D%9A%E5%AE%A2%E6%8E%A8%E6%96%87%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8C%97/"/>
+    <id>https://wodmaya.github.io/2022/06/30/%E5%B0%8F%E7%BE%8A%E5%8D%9A%E5%AE%A2%E6%8E%A8%E6%96%87%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8C%97/</id>
+    <published>2022-06-30T03:34:23.000Z</published>
+    <updated>2022-07-04T13:23:26.856Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;从生成到编辑再到推送的详细步骤-相关前置环境都会帮小宝配好&quot;&gt;&lt;a href=&quot;#从生成到编辑再到推送的详细步骤-相关前置环境都会帮小宝配好&quot; class=&quot;headerlink&quot; title=&quot;从生成到编辑再到推送的详细步骤 - [相关前置环境都会帮小宝配好]&quot;&gt;&lt;/a&gt;从生成到编辑再到推送的详细步骤 - [相关前置环境都会帮小宝配好]&lt;/h3&gt;&lt;h4 id=&quot;1-使用vscode打开本地的小羊博客仓库-git分支应在hexo上&quot;&gt;&lt;a href=&quot;#1-使用vscode打开本地的小羊博客仓库-git分支应在hexo上&quot; class=&quot;headerlink&quot; title=&quot;1. 使用vscode打开本地的小羊博客仓库 git分支应在hexo上&quot;&gt;&lt;/a&gt;1. 使用vscode打开本地的小羊博客仓库 git分支应在hexo上&lt;/h4&gt;&lt;p&gt;&lt;img src=&quot;/../assets/git-branch.png&quot;&gt;&lt;/p&gt;
+&lt;p&gt;如果分支不在hexo上 点击分支切换按钮进行切换&lt;br&gt;&lt;img src=&quot;/../assets/branch-change.png&quot;&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;j [小羊博客仓库名] 或者`cd`操作切换目录 这一步会帮小羊写好&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;或者简单使用terminal终端使用 `code .` 打开仓库&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    
+    <category term="笔记" scheme="https://wodmaya.github.io/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>春慕</title>
+    <link href="https://wodmaya.github.io/2022/06/29/%E6%98%A5%E6%85%95/"/>
+    <id>https://wodmaya.github.io/2022/06/29/%E6%98%A5%E6%85%95/</id>
+    <published>2022-06-29T01:40:04.000Z</published>
+    <updated>2022-07-04T13:23:26.857Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;想带你领略北京城  &lt;/p&gt;
+&lt;p&gt;像捕虾人淘尽砂砾  &lt;/p&gt;
+&lt;p&gt;唇齿研磨唤起我全部的感官  &lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="诗歌" scheme="https://wodmaya.github.io/tags/%E8%AF%97%E6%AD%8C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>苹果红了</title>
+    <link href="https://wodmaya.github.io/2021/07/31/%E8%8B%B9%E6%9E%9C%E7%BA%A2%E4%BA%86/"/>
+    <id>https://wodmaya.github.io/2021/07/31/%E8%8B%B9%E6%9E%9C%E7%BA%A2%E4%BA%86/</id>
+    <published>2021-07-31T07:16:58.000Z</published>
+    <updated>2022-07-04T13:23:26.858Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;伯父去世那年，我即将升入高二。  &lt;/p&gt;
+&lt;p&gt;全校文科生在高考后的某天下午集中在大礼堂听应届毕业生的演讲，我从后门出去，接过老师手里的电话，那边传来母亲平静的声音，伯父走了。门后响起哄笑声，像是谁开了个玩笑，我扭过头，从门缝中和邻座好友对视了一眼，看着她脸上绽开又逐渐敛起的笑容，我回了神，轻轻摇了摇头，下意识挂断电话，发现通话已经结束了。 &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文字" scheme="https://wodmaya.github.io/categories/%E6%96%87%E5%AD%97/"/>
+    
+    
+    <category term="散文" scheme="https://wodmaya.github.io/tags/%E6%95%A3%E6%96%87/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小羊自制vlog①</title>
+    <link href="https://wodmaya.github.io/2020/08/13/%E5%B0%8F%E7%BE%8A%E8%87%AA%E5%88%B6vlog%E2%91%A0/"/>
+    <id>https://wodmaya.github.io/2020/08/13/%E5%B0%8F%E7%BE%8A%E8%87%AA%E5%88%B6vlog%E2%91%A0/</id>
+    <published>2020-08-13T08:40:10.000Z</published>
+    <updated>2022-07-04T13:23:26.857Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;疫情爆发后第一次返校vlog&lt;br&gt;全程自己制作，从零到有&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;style&gt;.bbplayer{width: 100%; max-width: 850px; margin: auto}&lt;/style&gt;&lt;div</summary>
+        
+      
+    
+    
+    
+    <category term="视频" scheme="https://wodmaya.github.io/categories/%E8%A7%86%E9%A2%91/"/>
+    
+    
+    <category term="vlog" scheme="https://wodmaya.github.io/tags/vlog/"/>
+    
+  </entry>
+  
+</feed>
